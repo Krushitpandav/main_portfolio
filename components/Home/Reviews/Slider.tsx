@@ -1,5 +1,5 @@
 "use client"
-import { clientReviews } from '@/Data/data';
+// import { clientReviews } from '@/Data/data';
 import React from 'react'
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
@@ -32,11 +32,12 @@ const Slider = () => {
             autoPlaySpeed={5000}
             responsive={responsive}
         >
-            {clientReviews.map((review) => {
+            testing
+            {/* {clientReviews.map((review) => {
                 return (
                     <div key={review.image}><ReviewCard review={review}/></div>
                 )
-            })}
+            })} */}
         </Carousel>
     )
 }

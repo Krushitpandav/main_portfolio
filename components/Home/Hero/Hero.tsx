@@ -1,7 +1,7 @@
 import { BaseInfo } from '@/Data/data'
 import Image from 'next/image'
 import React from 'react'
-import { FaDownload, FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa'
+import { FaDownload, FaGithub, FaLinkedin } from 'react-icons/fa'
 
 const Hero = () => {
     return (
@@ -55,7 +55,7 @@ const Hero = () => {
                                     <FaGithub />
                                 </a>
                             )}
-                            {BaseInfo.socialLinks.twitter && (
+                            {/* {BaseInfo.socialLinks.twitter && (
                                 <a
                                     href={BaseInfo.socialLinks.twitter}
                                     target="_blank"
@@ -64,7 +64,7 @@ const Hero = () => {
                                 >
                                     <FaTwitter />
                                 </a>
-                            )}
+                            )} */}
                         </div>
 
                     </div>

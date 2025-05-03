@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://jenesh-portfolio.vercel.app/sitemap.xm
