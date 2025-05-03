@@ -22,11 +22,8 @@ export const metadata: Metadata = {
   keywords: [
     
   ],
-  authors: [{ name: "Krushit Pandav", url: "https://jenesh-portfolio.vercel.app/" }],
+  authors: [{ name: "Krushit Pandav", url: "" }],
   robots: "index, follow",
-  verification: {
-    google: "3hTyUS_BMmPLR6RhkD7b_zQX1Ciu6_j5792k-Zt0uaU",
-  },
   icons: {
     icon: "/favicon.ico", // Path to your favicon inside the public/ folder
     shortcut: "/favicon.ico",

@@ -157,7 +157,8 @@ export const skillsData = [
     image: "/images/figma.jpg",
   },
   {
-  ",
+    id: 9,
+    title: "Android Studio",
     image: "/images/android.png",
   },
   {
