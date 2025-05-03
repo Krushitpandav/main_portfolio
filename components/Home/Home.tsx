@@ -6,7 +6,7 @@ import About from './About/About'
 import Projects from './Projects/Projects'
 import { Skills } from './Skills/Skills'
 // import Reviews from './Reviews/Reviews'
-import Blogs from './Blogs/Blogs'
+// import Blogs from './Blogs/Blogs'
 import Contact from './Contact/Contact'
 import AOS from 'aos';  
 import 'aos/dist/aos.css';

@@ -1,5 +1,5 @@
 import React from "react";
-import { FaTwitter, FaInstagram, FaLinkedin, FaCode, FaGithub } from 'react-icons/fa';
+import {  FaInstagram, FaLinkedin,  FaGithub } from 'react-icons/fa';
 import { BaseInfo } from "@/Data/data";
 const Footer = () => {
   const currentYear = new Date().getFullYear();
