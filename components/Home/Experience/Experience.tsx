@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { experienceData } from '@/Data/data';
 import SectionHeading from '@/components/Helper/SectionHeading';
-import Image from 'next/image';
+// import Image from 'next/image';
 import { FiCalendar, FiMapPin, FiBriefcase, FiAward } from 'react-icons/fi';
 
 const Experience = () => {
