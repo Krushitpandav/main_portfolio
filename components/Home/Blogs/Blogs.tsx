@@ -1,7 +1,7 @@
 import SectionHeading from '@/components/Helper/SectionHeading'
 // import { blogs } from '@/Data/data'
 import React from 'react'
-import BlogCard from './BlogCard'
+// import BlogCard from './BlogCard'
 
 const Blogs = () => {
   return (
