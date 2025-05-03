@@ -50,12 +50,12 @@ const Experience = () => {
                   {/* Header */}
                   <div className="flex items-start gap-4 mb-4">
                     <div className="relative w-12 h-12 rounded-lg bg-gray-800/50 overflow-hidden flex-shrink-0 shadow-inner group-hover:ring-2 ring-blue-500/20 transition-all duration-300">
-                      <Image
+                      {/* <Image
                         src={experience.companyLogo}
                         alt={experience.company}
                         fill
                         className="object-cover p-2 filter brightness-110"
-                      />
+                      /> */}
                     </div>
                     <div>
                       <h3 className="text-xl font-bold text-white group-hover:text-blue-400 transition-colors duration-300">
